@@ -5,6 +5,6 @@ Js file contains complete implementation of accessing the SDK and its subsequent
 ## How to Proceed: 
 Download the project or clone it and open the html in a browser. A web page opens as below.
 
-![image](https://user-images.githubusercontent.com/96531226/169974601-e12ffa32-116f-414b-b8fd-e0704fba9586.png)
+![image](https://user-images.githubusercontent.com/96531226/202685877-83e2934d-61d6-436a-a122-a62514987998.png)
 
 The domain [rtr.egagedigital.ai](https://rtc.engagedigital.ai) is a sample domain used in the code base, you can check with radisys service provider for domain address and service phone number.
