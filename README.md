@@ -9,9 +9,9 @@ Download the project or clone it and open the html in a browser. A web page open
 
 The domain [rtr.egagedigital.ai](https://rtc.engagedigital.ai) is a sample domain used in the code base, you can check with radisys service provider for domain address and service phone number.
 
-Collocation: For conference establishment, all the participants should join the media server in the same zone. If the initial call is established with a different media server, then collocation will occur so that call or media will be reestablished. 
+**Collocation:** For conference establishment, all the participants should join the media server in the same zone. If the initial call is established with a different media server, then collocation will occur so that call or media will be reestablished. 
 
-For handling collocation, following event to be registerd:
+The following event has to be registered to manage collocation:
 ```
  engageDigitalSession.addEventHandler("collocation", () => {
       //your code here..
